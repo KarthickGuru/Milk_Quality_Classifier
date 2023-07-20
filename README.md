@@ -1,7 +1,5 @@
 # Milk Quality Classifier
-Sure, I can help you with that. Here is a README file for the code:
 
-Milk Quality Prediction
 This code predicts the quality of milk based on the fat and SNF percentages. The code first reads the data from an Excel file and then creates two separate dataframes for the good and bad milk samples. The code then calculates the distance between each sample and the input parameters (ip1 and ip2). The samples with the shortest distances are considered to be the best matches. The code then prints the results of the prediction.
 
 How to use the code
